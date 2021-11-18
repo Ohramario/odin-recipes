@@ -1,1 +1,1 @@
-# odin-recipes
+I want to make a web site using html, snahpshotting my progress using git.# odin-recipes
